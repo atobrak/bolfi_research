@@ -1,1 +1,2 @@
-These are codes that were used for this research study
+Simulator-based inference for enhanced geothermal reservoir properties
+
